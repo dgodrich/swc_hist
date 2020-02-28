@@ -1,7 +1,7 @@
 # Randomizing data, generating summary stats + histogram
 
 import numpy as np
-import matlibplot.pyplot as plt
+import matplotlib.pyplot as plt
 mu = 80
 sigma = 10
 
