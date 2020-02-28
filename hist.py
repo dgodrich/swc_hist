@@ -10,6 +10,7 @@ x = np.random.normal(mu, sigma, 100)
 print ("Random Norm Array Mean Centered:",x[:10])
 
 print ("mean", np.mean(x))
+print ("std.dev")
 
 plt.hist(x)
 plt.show()
